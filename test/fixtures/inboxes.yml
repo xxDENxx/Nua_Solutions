@@ -1,0 +1,8 @@
+patient:
+  user_id: 1
+
+doctor:
+  user_id: 2
+
+admin:
+  user_id: 3

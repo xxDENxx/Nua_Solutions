@@ -1,0 +1,19 @@
+patient:
+  id: 1
+  first_name: Luke
+  last_name: Skywalker
+
+doctor:
+  id: 2
+  first_name: Leia
+  last_name: Organa
+  is_doctor: true
+  is_patient: false
+
+admin:
+  id: 3
+  first_name: Obi-wan
+  last_name: Kenobi
+  is_admin: true
+  is_patient: false
+  
